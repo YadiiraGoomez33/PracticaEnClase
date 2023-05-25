@@ -1,0 +1,54 @@
+b{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    margin: 4px;
+}
+body{
+    background-color:burlywood;
+    padding:4px;
+}
+#sech{
+display:flex;
+}
+.imgh{
+    height:70px;
+    width:70px;
+}
+h1{
+    display: flex;
+    font-style: normal;
+}
+h2{
+    display: flex;
+    font-style: italic;
+}
+body {
+    background: linear-gradient( rgba(255, 208, 0, 0.589) , white , cyan);
+}
+label{
+    display: flex;
+    font-style: italic;
+}
+.Imagenes2{
+    display: flex;
+    justify-content:center;
+}
+*{
+    border-width: 3px;
+    border-color: black;
+    margin: 6px;
+}
+fieldset{
+    /* display: flex; */
+    background-color: rgba(89, 141, 98, 0.719);
+    /* justify-content: center; */
+    width: 90vh;
+    height: auto;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+
+
